@@ -3,4 +3,26 @@
     background-image: url(https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?semt=ais_hybrid);
     background-size: cover;
     background-position: center;
+    height: 400px;
+    color: white;
+}
+.nav_bar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, blue, alpha);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-bar a{
+color: white;
+text-decoration: none;
+margin: 0 10px;
+font-weight: bold;
+
+}
+.nav_bar a:hover{
+    text-decoration: underline;
 }
