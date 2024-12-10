@@ -4,6 +4,7 @@
     background-size: cover;
     background-position: center;
     height: 400px;
+    width: 100%;
     color: white;
 }
 .nav_bar{
